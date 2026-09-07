@@ -1,7 +1,7 @@
  Hi 👋, I'm Yash Mulik
 
 💻 Aspiring Software Developer  
-🎓 BCA Graduate | MCA Aspirant  
+🎓 BCA Graduate | MCA Student
 🌱 Currently learning Software Development & Cloud Technologies
 
  🚀 About Me
